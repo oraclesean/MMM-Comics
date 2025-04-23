@@ -1,0 +1,2 @@
+# Retrieve comics daily at midnight:
+00 0 * * * ~/get_comics.sh
